@@ -17,9 +17,10 @@ I use it to keep my dotfiles organized and portable.
 ### 🐟 Fish Shell
 ![Fish Shell](./screenshots/terminal.png)
 
-### 🎨 Caelestia launcher
+### 🎨 Caelestia 
 ![Launcher](./screenshots/launcher.png)
 
+![Wallpaper Selection](./screenshots/wallpaper-selection.png)
 ---
 
 ## 🙏 Credits & Inspiration
