@@ -1,1 +1,0 @@
-/home/tido/.local/share/caelestia/fish
