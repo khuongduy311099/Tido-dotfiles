@@ -11,17 +11,25 @@ I use it to keep my dotfiles organized and portable.
 
 ## 📸 Screenshots
 
-### 🖥️ Desktop
-![Desktop](./screenshots/main.png)
+<details>
+  <summary>🖥️ Desktop</summary>
+  
+  ![Desktop](./screenshots/main.png)
+</details>
 
-### 🐟 Fish Shell
-![Fish Shell](./screenshots/terminal.png)
+<details>
+  <summary>🐟 Fish Shell</summary>
+  
+  ![Fish Shell](./screenshots/terminal.png)
+</details>
 
-### 🎨 Caelestia 
-![Launcher](./screenshots/launcher.png)
+<details>
+  <summary>🎨 Caelestia</summary>
+  
+  ![Launcher](./screenshots/launcher.png)
 
-![Wallpaper Selection](./screenshots/wallpaper-selection.png)
----
+  ![Wallpaper Selection](./screenshots/wallpaper-selection.png)
+</details>
 
 ## 🙏 Credits & Inspiration
 
