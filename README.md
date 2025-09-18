@@ -9,28 +9,6 @@ This repository contains my personal configuration files for **Hyprland**, **Fis
 I use it to keep my dotfiles organized and portable.    
 ---
 
-## 📸 Screenshots
-
-<details>
-  <summary>🖥️ Desktop</summary>
-  
-  ![Desktop](./screenshots/main.png)
-</details>
-
-<details>
-  <summary>🐟 Fish Shell</summary>
-  
-  ![Fish Shell](./screenshots/terminal.png)
-</details>
-
-<details>
-  <summary>🎨 Caelestia</summary>
-  
-  ![Launcher](./screenshots/launcher.png)
-
-  ![Wallpaper Selection](./screenshots/wallpaper-selection.png)
-</details>
-
 ## 🙏 Credits & Inspiration
 
 This setup is built on the shoulders of some amazing projects and their maintainers:  
